@@ -2,5 +2,6 @@
 ## LeetCode solutions
 
 ### Medium
-[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-[211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
